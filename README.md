@@ -52,7 +52,3 @@ Contributions to this Mine Sweeper game project are welcome! If you'd like to co
 4. Create a pull request with a clear description of your changes.
 
 Please adhere to the project's coding standards and conventions. If you have any questions or need assistance, feel free to open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
