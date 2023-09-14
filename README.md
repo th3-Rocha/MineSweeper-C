@@ -1,6 +1,3 @@
-Sure, here's a `README.md` file for your Mine Sweeper game project on GitHub:
-
-```markdown
 # Mine Sweeper Game
 
 This is a classic Mine Sweeper game implemented in C++ with a terminal interface.
